@@ -1,0 +1,47 @@
+body{
+    font-family: 'oswald', sans-serif;
+    /* background-color: rgb(236, 236, 236) ; */
+}
+
+#title-head h1{
+    color: rgb(0, 0, 0);
+}
+
+#navbar{
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: #d4c493;
+}
+
+#navbar .nav-link{
+    color: white;
+}
+
+#navbar .nav-link:hover{
+color: rgb(59, 56, 56);
+}
+
+#navbar .navbar-brand{
+    color: rgb(59, 56, 56);
+    font-size: 1.5rem;
+}
+
+.navbar.scrolled{
+    background-color: rgb(59, 56, 56);
+    /* transition: background 500ms; */
+}
+
+#home{
+    background-color: rgb(150, 204, 186);
+}
+
+#Profile{
+    text-align: center;
+}
+
+#illustration{
+    background-color: rgb(150, 204, 186);
+}
+
+
+
