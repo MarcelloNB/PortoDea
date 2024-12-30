@@ -10,22 +10,25 @@ body{
 #navbar{
     font-size: 1.5rem;
     font-weight: 500;
-    background-color: #d4c493;
+    /* background-color: #ccbb86; */
 }
 
 #navbar .nav-link{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 #navbar .nav-link:hover{
-color: rgb(59, 56, 56);
+color: rgb(253, 236, 138);
 }
 
 #navbar .navbar-brand{
-    color: rgb(59, 56, 56);
+    color: rgb(5, 5, 5);
     font-size: 1.5rem;
 }
 
+#navbar .navbar-brand-hover:hover{
+    color: rgb(253, 236, 138);
+}
 .navbar.scrolled{
     background-color: rgb(59, 56, 56);
     /* transition: background 500ms; */
